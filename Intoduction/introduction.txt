@@ -1,0 +1,28 @@
+Full Stack Web Development(FSWD) course 
+
+FSWD is a combination of 1.FRONTEND 
+                         2.Backend
+                         3.Database
+
+
+1.FRONTEND means what the user access the website like interface
+
+2.Backend means the logic behind the website 
+
+3.Database means storing the data in server
+
+
+The technologies we learn so far are 1.Html
+                                     2.Css
+                                     3.JavaScript
+                                     4.Bootstrap
+                                     5.Reactjs
+                                     6.SQL
+                                     7.MangoDB
+                                     8.Nodejs
+                                     9.Expressjs
+
+Some basic topics to know and get awareness. 
+The topics are about Operating system(os) and  networking
+
+Practise is must and we will creat some projects too

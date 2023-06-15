@@ -1,0 +1,28 @@
+descendent selector --->    for one child
+
+
+                                div h1{
+                                    property1:value1;
+                                }
+
+
+child selector --->    for all selected child
+
+
+                        div>p{
+                            property1:value1;
+                        }
+
+
+adjacent siblings selector --->  only applied when two element are adjacent
+
+
+                        p+h1{
+                            property1:value1;
+                        }
+
+general siblings selector ---> 
+
+                        p-h1{
+                            property1:value1;
+                        }

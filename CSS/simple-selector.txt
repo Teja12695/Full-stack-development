@@ -1,0 +1,28 @@
+class selector--->   we can use this selector several times
+
+                    .classname{
+                        property1:value1;
+                    }
+
+
+Id selector --->     it should be unique
+
+                    #idname{
+                        property1:value1;
+                    }
+
+
+universal selector --->    styling will be applied to all the contents of Elements
+
+                    *{
+                        property1:value1;
+                    }
+
+
+element based selector --->  styling should be applied to specified elements
+
+                    h1{
+                        property1:value1;
+                    }
+
+

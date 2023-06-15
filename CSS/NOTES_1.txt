@@ -1,0 +1,61 @@
+CSS means cascading styling sheeets.
+It gives styling to the HTML
+
+
+Syntax --->      selector{
+                        property1:value1;
+                        property2:value2;
+                 }
+
+
+We can write CSS code --->  1.In the HTML file / In the same html file
+                            2.Outside the HTML file / in the other external file
+                            3.Within the Elements / inline 
+
+
+
+
+1.In the HTML file / In the same html file :
+
+
+
+                            In HTML FILE --- in  head element we have to write it.
+
+                            <head>
+
+                                <style>
+                                    selector{
+                                            property1:value1;
+                                            property2:value2;
+                                    }
+                                </style>
+                            </head>
+
+
+2.Outside the HTML file / in the other external file :
+
+---->  First we need to creat a external file with css extension (for example ---> myproject.css)
+---->  We need to link that css file(for example--> myproject.css) to HTML file by using link tag in head element
+---->  <head>
+            <link rel="styelsheet" href = "myproject.css">
+       </head>
+---->  Only after linking the CSS.file styling will be applied to the HTML file
+---->  With the help of selector names styling will be applied to the required elements by using (class,id,etc..)   attributes.
+
+
+3.Within the Elements / inline :
+
+---> Very simple one we can diretly apply the styling in the required element directly
+---> for example ----- 
+                <h1 style = "color:blue;"> content </h1> 
+    (content means whatever we write thats all)
+
+
+
+
+
+
+
+
+
+

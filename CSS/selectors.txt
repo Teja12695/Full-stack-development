@@ -1,0 +1,27 @@
+there are so many selectors in css
+
+
+each selector has a specifiv value1
+
+lets for a example 
+
+we created like this
+
+.container{
+    color : blue;
+    background-color : red ;
+    height : 20 px;
+    width : 20 px;
+    text-align : center;
+    font-family : roboso;
+    
+    }
+
+
+    color for changing the color of text
+
+    background-color for changing background
+
+    text-aligh to tell where the content should be placed either first,center or last
+
+    height and width for height and width purpose.

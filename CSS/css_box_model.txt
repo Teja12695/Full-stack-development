@@ -1,0 +1,10 @@
+                CSS BOX MODEL
+
+
+Content – what we write to display is called content
+Padding – the space around the content is called padding
+Border --- after content and padding the border is applied 
+Margin --- used for giving space between elements.
+
+
+We can adjust the height, width, colour with CSS also

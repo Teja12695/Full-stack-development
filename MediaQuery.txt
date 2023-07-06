@@ -1,0 +1,28 @@
+Media Queries
+
+
+now we have different types of devices like mobile,tc,tab,tv,etc . if u observe - for different devices website styling changes to devices to device. it is called responsive 
+
+
+Media Queries is used to create responsive websites.
+
+Media types are screen,print and page
+
+@media (min-width:450px) ---- it means after width 449px text color changes to  blue
+{
+    .container{
+        color:blue;
+    }
+}
+
+
+@media print  ------ when we print it text comes in red color
+    {
+    .container{
+        color:red
+
+    }
+}
+
+
+media operators are (,) -(and) -(not)

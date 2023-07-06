@@ -1,0 +1,10 @@
+we can add icons using google icons and bootstrap icons
+
+
+in css some position are used to place the element 
+
+
+.container{
+    position:fixed,static, relative,sticky,absolute
+             
+}

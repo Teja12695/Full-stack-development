@@ -52,7 +52,7 @@ We can write CSS code --->  1.In the HTML file / In the same html file
 
 
 
-
+commenting in css is ----     /* content */
 
 
 
